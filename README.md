@@ -2,7 +2,7 @@
 Este projeto é uma solução de hardware (Smart Mouse) projetada para monitorar ativamente os níveis de estresse de profissionais em home office e sugerir intervenções para melhorar o bem-estar e a produtividade.
 
 ## O Problema
-Profissionais em regime de home office enfrentam desafios únicos que frequentemente resultam em níveis elevados de estresse. A dificuldade em separar a vida profissional da pessoal e o possível isolamento contribuem para um desconforto mental e físico contínuo.
+Profissionais que utilizam do computador enfrentam desafios únicos que frequentemente resultam em níveis elevados de estresse. A dificuldade em separar a vida profissional da pessoal e o possível isolamento contribuem para um desconforto mental e físico contínuo.
 Este cenário impacta negativamente não apenas o bem-estar do colaborador, mas também sua capacidade de trabalho, levando diretamente a uma queda na produtividade, menor disposição para executar tarefas e uma diminuição geral no desempenho. A ausência de ferramentas que identifiquem esses picos de estresse em tempo real impede uma intervenção rápida, permitindo que o problema se agrave.
 
 ## A Solução
@@ -24,11 +24,11 @@ Hardware
 * [Fios, jumpers, protoboard, sensor e potenciometro]
 
 ## Software
-* [IDE Arduino](https://wokwi.com/projects/448019460121132033)
+* IDE Arduino: Wokiwi
 * [Biblioteca para Sensor, DHT sensor library]
 
 ## Imagens do Circuito
 ![foto do circuito](arduinoUno.jpeg)
 
 ## Link do Wokwi
-Visualize e simule o circuito em tempo real no Wokwi | (https://wokwi.com link-do-seu-projeto)
+Visualize e simule o circuito em tempo real no Wokwi | ([https://wokwi.com/projects/448019460121132033])
