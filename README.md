@@ -1,3 +1,6 @@
+André Rosa Ferreira Filho - RM:567149
+Yuri Fukamachi - RM:567314
+
 # Smart Mouse: Monitor de Estresse e Bem-Estar
 Este projeto é uma solução de hardware (Smart Mouse) projetada para monitorar ativamente os níveis de estresse de profissionais em home office e sugerir intervenções para melhorar o bem-estar e a produtividade.
 
